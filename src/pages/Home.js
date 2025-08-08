@@ -11,10 +11,10 @@ function Home() {
                 I'm also interested in software engineering and big data processing.
                 Feel free to reach out!</p>
             <div className='contact'>
-                <p>✉️  laurel.sun.06@gmail.com</p>
-                <p>🌐  lsun2006@umd.edu</p>
-                <p>🔗  https://www.linkedin.com/in/laurel-sun/</p>
-                <p>💻  https://github.com/sunlaurel/</p>
+                <p>✉️ laurel.sun.06@gmail.com</p>
+                <p>🌐 lsun2006@umd.edu</p>
+                <p>🔗 <a href="https://www.linkedin.com/in/laurel-sun/">https://www.linkedin.com/in/laurel-sun/</a></p>
+                <p>💻 <a href="https://github.com/sunlaurel/">https://github.com/sunlaurel/</a></p>
             </div>
         </div>
     );
